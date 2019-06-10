@@ -2,6 +2,12 @@
 
 Proyecto de fin de grado (APP) para I.E.S Campanillas - Grado Superior DAM
 
+## Descripción
+
+La aplicación contiene fondos adaptados al formato del dispositivo móvil, **facilitando el manejo** y **obviando el trabajo de tener que ajustar la imagen**, para ahorrar a los usuarios que la descarguen, el tener que modificarlas para ponerlas en sus móviles.
+
+Los usuarios tendrán la posibilidad de poder _Descargar_ y _Establecer como fondo de pantalla_ aquellas imágenes que sean de su agrado, además, cualquier usuario puede subir su propia imagen para compartirla con la comunidad, haciendo que la puedan ver, descargar, y establecer como fondo para sus dispositivos móviles.
+
 You can use the [editor on GitHub](https://github.com/Pasira/BestBackgrounds/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
