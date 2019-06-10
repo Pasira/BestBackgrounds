@@ -1,6 +1,6 @@
 # Best Backgrounds
 
-APP - Proyecto Final / I.E.S Campanillas
+Proyecto de fin de grado (APP) para I.E.S Campanillas - Grado Superior DAM
 
 You can use the [editor on GitHub](https://github.com/Pasira/BestBackgrounds/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
