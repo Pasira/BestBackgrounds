@@ -27,7 +27,8 @@ IMGs | Explicación
 ------------ | -------------
 ![img1](/Capturas%20de%20Pantalla%20App/img1.png) | Texto	
 Texto | ![img2](/Capturas%20de%20Pantalla%20App/img2.png)	
-![img3](/Capturas%20de%20Pantalla%20App/img3.png) | Texto	
+![img3](/Capturas%20de%20Pantalla%20App/img3.png) | Texto	y
+más texto
 Texto | ![img4](/Capturas%20de%20Pantalla%20App/img4.png)	
 ![img5](/Capturas%20de%20Pantalla%20App/img5.png) | Texto	
 Texto | ![img6](/Capturas%20de%20Pantalla%20App/img6.png)
