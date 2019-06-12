@@ -19,7 +19,7 @@ La aplicación contiene fondos adaptados al formato del dispositivo móvil, **fa
 
 Los usuarios tendrán la posibilidad de poder _Descargar_ y _Establecer como fondo de pantalla_ aquellas imágenes que sean de su agrado, además, cualquier usuario puede subir su propia imagen para compartirla con la comunidad, haciendo que la puedan ver, descargar, y establecer como fondo para sus dispositivos móviles, pero sin la posibilidad de subir contenido para adultos.
 
-## Tutorial
+## Tutorial / Manual del usuario
 
 Explición sobre el funcionamiento de la aplicación, con sus imágenes correspondientes.
 
