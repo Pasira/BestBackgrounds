@@ -23,6 +23,9 @@ Los usuarios tendrán la posibilidad de poder _Descargar_ y _Establecer como fon
 
 Vídeo o Capturas de pantalla
 
-![img1](/Capturas%20de%20Pantalla%20App/img1.png)
+First Header | Second Header
+------------ | -------------
+![img1](/Capturas%20de%20Pantalla%20App/img1.png) | ![img1](/Capturas%20de%20Pantalla%20App/img1.png)
+Content in the first column | Content in the second column
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
