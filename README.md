@@ -25,18 +25,18 @@ Explición sobre el funcionamiento de la aplicación, con sus imágenes correspo
 
 IMGs | Explicación
 ------------ | -------------
-![img1](/Capturas%20de%20Pantalla%20App/img1.png) | Texto
-![img2](/Capturas%20de%20Pantalla%20App/img2.png) | Texto
-![img3](/Capturas%20de%20Pantalla%20App/img3.png) | Texto
-![img4](/Capturas%20de%20Pantalla%20App/img4.png) | Texto
-![img5](/Capturas%20de%20Pantalla%20App/img5.png) | Texto
-![img6](/Capturas%20de%20Pantalla%20App/img6.png) | Texto
+![img1](/Capturas%20de%20Pantalla%20App/img1.png) | Texto	
+Texto | ![img2](/Capturas%20de%20Pantalla%20App/img2.png)	
+![img3](/Capturas%20de%20Pantalla%20App/img3.png) | Texto	
+Texto | ![img4](/Capturas%20de%20Pantalla%20App/img4.png)	
+![img5](/Capturas%20de%20Pantalla%20App/img5.png) | Texto	
+Texto | ![img6](/Capturas%20de%20Pantalla%20App/img6.png)
 ![img7](/Capturas%20de%20Pantalla%20App/img7.png) | Texto
-![img8](/Capturas%20de%20Pantalla%20App/img8.png) | Texto
+Texto | ![img8](/Capturas%20de%20Pantalla%20App/img8.png)
 ![img9](/Capturas%20de%20Pantalla%20App/img9.png) | Texto
-![img10](/Capturas%20de%20Pantalla%20App/img10.png) | Texto
-![img11](/Capturas%20de%20Pantalla%20App/img11.png) | Texto
-![img12](/Capturas%20de%20Pantalla%20App/img12.png) | Texto
+Texto | ![img10](/Capturas%20de%20Pantalla%20App/img10.png)
+![img11](/Capturas%20de%20Pantalla%20App/img11.png) | Texto	
+Texto | ![img12](/Capturas%20de%20Pantalla%20App/img12.png)
 
 
 
