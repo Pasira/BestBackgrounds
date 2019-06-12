@@ -23,7 +23,7 @@ Los usuarios tendrán la posibilidad de poder _Descargar_ y _Establecer como fon
 
 Explición sobre el funcionamiento de la aplicación, con sus imágenes correspondientes.
 
-IMGs | Explicación
+# BEST | BACKGROUNDS
 :------------: | :-------------:
 **IMG 1** <br> ![img1](/Capturas%20de%20Pantalla%20App/img1.png) | Texto	
 Texto | **IMG 2** <br>![img2](/Capturas%20de%20Pantalla%20App/img2.png)	
