@@ -23,7 +23,6 @@ Los usuarios tendrán la posibilidad de poder _Descargar_ y _Establecer como fon
 
 Vídeo o Capturas de pantalla
 
-First Header | Second Header
 ------------ | -------------
 ![img1](/Capturas%20de%20Pantalla%20App/img1.png) | Esto también será todo texto
 Esto será todo texto | ![img2](/Capturas%20de%20Pantalla%20App/img2.png)
