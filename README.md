@@ -23,6 +23,6 @@ Los usuarios tendrán la posibilidad de poder _Descargar_ y _Establecer como fon
 
 Vídeo o Capturas de pantalla
 
-
+https://github.com/Pasira/BestBackgrounds/blob/master/Capturas%20de%20Pantalla%20App/img1.png
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
