@@ -23,8 +23,8 @@ Los usuarios tendrán la posibilidad de poder _Descargar_ y _Establecer como fon
 
 Explición sobre el funcionamiento de la aplicación, con sus imágenes correspondientes.
 
-BEST | BACKGROUNDS
-:------------: | :-------------:
+BEST | BACKGROUNDS 
+:------------: | :-------------: 
 **IMG 1** <br> <img src="/Capturas%20de%20Pantalla%20App/img1.png" width="450"> |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Mostrará un SplashScreen mientras se carga la aplicación	
 Nos pedirá que iniciemos sesión con una cuenta de Google.<br>Si tenemos cuentas iniciadas en nuestro teléfono, nos aparecerán en la pantalla, de no ser así, o no querer iniciar sesión con las que nos aparecen, podremos introducir una nueva cuenta con el **botón** que se encuentra más abajo (_Ninguna de las anteriores_) e introducir el correo con el que queramos iniciar sesión. | **IMG 2** <br> <img src="/Capturas%20de%20Pantalla%20App/img2.png" width="450">	
 **IMG 3** <br> <img src="/Capturas%20de%20Pantalla%20App/img3.png" width="450"> | Si es la primera vez que iniciamos sesión en la Aplicación, nos pedirá que nos registremos, introduciendo datos como el **Nombre** y una **Contraseña**. <br> Es necesario ya que si cerramos sesión, deberemos introducir los datos del registro para poder acceder a la aplicación.
