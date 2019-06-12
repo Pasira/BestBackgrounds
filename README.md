@@ -21,22 +21,22 @@ Los usuarios tendrán la posibilidad de poder _Descargar_ y _Establecer como fon
 
 ## Tutorial
 
-Vídeo o Capturas de pantalla
+Explición sobre el funcionamiento de la aplicación, con sus imágenes correspondientes.
 
-First Header | Second Header
+IMGs | Explicación
 ------------ | -------------
-![img1](/Capturas%20de%20Pantalla%20App/img1.png) | Esto también será todo texto
-Esto será todo texto | ![img2](/Capturas%20de%20Pantalla%20App/img2.png)
+![img1](/Capturas%20de%20Pantalla%20App/img1.png) | Texto
+![img2](/Capturas%20de%20Pantalla%20App/img2.png) | Texto
 ![img3](/Capturas%20de%20Pantalla%20App/img3.png) | Texto
-Texto | ![img4](/Capturas%20de%20Pantalla%20App/img4.png)
+![img4](/Capturas%20de%20Pantalla%20App/img4.png) | Texto
 ![img5](/Capturas%20de%20Pantalla%20App/img5.png) | Texto
-Texto | ![img6](/Capturas%20de%20Pantalla%20App/img6.png)
+![img6](/Capturas%20de%20Pantalla%20App/img6.png) | Texto
 ![img7](/Capturas%20de%20Pantalla%20App/img7.png) | Texto
-Texto | ![img8](/Capturas%20de%20Pantalla%20App/img8.png)
+![img8](/Capturas%20de%20Pantalla%20App/img8.png) | Texto
 ![img9](/Capturas%20de%20Pantalla%20App/img9.png) | Texto
-Texto | ![img10](/Capturas%20de%20Pantalla%20App/img10.png)
+![img10](/Capturas%20de%20Pantalla%20App/img10.png) | Texto
 ![img11](/Capturas%20de%20Pantalla%20App/img11.png) | Texto
-Texto | ![img12](/Capturas%20de%20Pantalla%20App/img12.png)
+![img12](/Capturas%20de%20Pantalla%20App/img12.png) | Texto
 
 
 
