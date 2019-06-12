@@ -25,11 +25,11 @@ Explición sobre el funcionamiento de la aplicación, con sus imágenes correspo
 
 BEST | BACKGROUNDS
 :------------: | :-------------:
-**IMG 1** <br> ![img1](/Capturas%20de%20Pantalla%20App/img1.png) | Texto	
-Texto | **IMG 2** <br>![img2](/Capturas%20de%20Pantalla%20App/img2.png)	
-**IMG 3** <br> ![img3](/Capturas%20de%20Pantalla%20App/img3.png) | Texto
-Texto | **IMG 4** <br> ![img4](/Capturas%20de%20Pantalla%20App/img4.png)	
-**IMG 5** <br> ![img5](/Capturas%20de%20Pantalla%20App/img5.png) | Texto	
+**IMG 1** <br> ![img1](/Capturas%20de%20Pantalla%20App/img1.png) | Mostrará un SplashScreen mientras se carga la aplicación	
+Nos pedirá que iniciemos sesión con una cuenta de Google.<br>Si tenemos cuentas iniciadas en nuestro teléfono, nos aparecerán en la pantalla, de no ser así, o no querer iniciar sesión con las que nos aparecen, podremos introducir una nueva cuenta con el **botón** que se encuentra más abajo (_Ninguna de las anteriores_) e introducir el correo con el que queramos iniciar sesión. | **IMG 2** <br>![img2](/Capturas%20de%20Pantalla%20App/img2.png)	
+**IMG 3** <br> ![img3](/Capturas%20de%20Pantalla%20App/img3.png) | Si es la primera vez que iniciamos sesión en la Aplicación, nos pedirá que nos registremos, introduciendo datos como el **Nombre** y una **Contraseña**. <br> Es necesario ya que si cerramos sesión, deberemos introducir los datos del registro para poder acceder a la aplicación.
+Si no es la primera vez que entramos y nos hemos registrado con anterioridad, solamente deberemos seleccionar la cuenta de correo con la que deseamos acceder y la misma contraseña que introducimos en el **registro** (No la contraseña de la cuenta de correo) | **IMG 4** <br> ![img4](/Capturas%20de%20Pantalla%20App/img4.png)	
+**IMG 5** <br> ![img5](/Capturas%20de%20Pantalla%20App/img5.png) | Una vez Iniciada sesión, nos preguntará si _aceptamos o rechazamos_ los permisos para que la aplicación tenga acceso a los medios, fotos y archivos del dispositivo. <br> **IMPORTANTE:** _Si no se aceptan los permisos, no se podrán descargar los fondos de pantalla de la aplicación_.
 Texto | **IMG 6** <br> ![img6](/Capturas%20de%20Pantalla%20App/img6.png)
 **IMG 7** <br> ![img7](/Capturas%20de%20Pantalla%20App/img7.png) | Texto
 Texto | **IMG 8** <br> ![img8](/Capturas%20de%20Pantalla%20App/img8.png)
