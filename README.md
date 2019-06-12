@@ -25,7 +25,12 @@ Vídeo o Capturas de pantalla
 
 First Header | Second Header
 ------------ | -------------
-![img1](/Capturas%20de%20Pantalla%20App/img1.png) | ![img1](/Capturas%20de%20Pantalla%20App/img1.png)
-Content in the first column | Content in the second column
+![img1](/Capturas%20de%20Pantalla%20App/img1.png) | ![img2](/Capturas%20de%20Pantalla%20App/img2.png)
+![img3](/Capturas%20de%20Pantalla%20App/img3.png) | ![img4](/Capturas%20de%20Pantalla%20App/img4.png)
+![img5](/Capturas%20de%20Pantalla%20App/img5.png) | ![img6](/Capturas%20de%20Pantalla%20App/img6.png)
+![img7](/Capturas%20de%20Pantalla%20App/img7.png) | ![img8](/Capturas%20de%20Pantalla%20App/img8.png)
+![img9](/Capturas%20de%20Pantalla%20App/img9.png) | ![img10](/Capturas%20de%20Pantalla%20App/img10.png)
+![img11](/Capturas%20de%20Pantalla%20App/img11.png) | ![img12](/Capturas%20de%20Pantalla%20App/img12.png)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
