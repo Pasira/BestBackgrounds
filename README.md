@@ -6,7 +6,7 @@ Proyecto de fin de grado (APP) para I.E.S Campanillas - Grado Superior DAM
 
 [ ] App
 
-[ ] Presentación
+[Presentación del proyecto](https://prezi.com/view/97ZvdPt4KYIhroeaSw6w)
 
 [ ] Documentación Adicional
 
