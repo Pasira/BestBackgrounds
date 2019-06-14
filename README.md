@@ -38,6 +38,10 @@ Cuando seleccionamos cualquier fondo, nos aparecerá la imagen, en color "dorado
 **IMG 11** <br> <img src="/Capturas%20de%20Pantalla%20App/img11.png" width="450"> | Si seleccionamos el **botón _Subir_** en la parte inferior, nos aparecerá la opción de subir una imagen a la aplicación. <br> Pasos a seguir: <br> - Deberemos seleccionar la categoría en la que queremos que aparezca. <br> - Adjuntar el fondo de pantalla que deseemos. <br> - Subir el archivo seleccionado <br> - Enviarlo <br><br> **Importante:** _Todas la imagenes que se suban, serán analizadas, si se detecta contenido **adulto** en la imagen adjunta, serán automáticamente eliminadas_.
 Si deslizamos a la izquierda en el borde de nuestro dispositivo móvil o selecciona las 3 barras del menú, ubicadas en la parte superior de la aplicación, podremos ver el correo con el que hemos accedido, además, aparecerá la opción de _Cerrar sesión_ <br><br> **Recuerde:** _Cada vez que se cierre sesión, deberá volver acceder con una cuenta de Google, pasos explicados en "**IMG 2, IMG 3, IMG 4**"_ | **IMG 12** <br> <img src="/Capturas%20de%20Pantalla%20App/img12.png" width="450">
 
+## Herramientas utilizadas
 
+|   Firebase   |   Picasso   |   Retrofit   |   RoomDatabase   |   RxJava   |   Computer Vision
+|:-------------:|:------:|:--------------------------------------:|:--------------------------------------:|
+<img src="/Capturas%20de%20Pantalla%20App/Herramientas/firebase.png" width="100px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/Picasso.png" width="100px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/Retrofit.png" width="100px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/RoobDatabase.png" width="100px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/RxJava.png" width="100px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/Computer Vision API.png" width="100px">
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
