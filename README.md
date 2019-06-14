@@ -12,8 +12,6 @@ Proyecto de fin de grado (APP) para I.E.S Campanillas - Grado Superior DAM
 
 [ ] Documentación Adicional
 
-[ ] Código Fuente App
-
 
 ## Descripción
 
