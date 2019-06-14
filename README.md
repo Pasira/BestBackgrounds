@@ -42,6 +42,6 @@ Si deslizamos a la izquierda en el borde de nuestro dispositivo móvil o selecci
 
 |   Firebase   |   Picasso   |   Retrofit   |   RoomDatabase   |   RxJava   |   Computer Vision
 |:------------:|:------------:|:------------:|:------------:|:------------: |:------------:
-<img src="/Capturas%20de%20Pantalla%20App/Herramientas/firebase.png" width="100px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/Picasso.png" width="100px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/Retrofit.png" width="100px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/RoobDatabase.png" width="100px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/RxJava.png" width="100px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/Computer Vision API.png" width="100px">
+<img src="/Capturas%20de%20Pantalla%20App/Herramientas/firebase.png" width="150px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/Picasso.png" width="150px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/Retrofit.png" width="150px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/RoomDatabase.png" width="150px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/RxJava.png" width="150px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/Computer Vision API.png" width="150px">
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
