@@ -10,7 +10,7 @@ Las versiónes que poseen el numero _.2_ son actualizaciones que se han realizad
 
 ## Contenido de las versiones
 
-**Versión 2**: en esta versión, encontraremos el código para poder ver las categorías que posee la aplicación y que al seleccionar determinada categoría, se muestren los fondos de pantalla que posea esa misma.
+**Versión 2**: en esta versión, encontraremos el código para poder ver las categorías que posee la aplicación y que al seleccionar determinada categoría, se muestren los fondos de pantalla que posea esa misma, con la posibilidad de establecer las imágnes, como fondos de pantalla.
 
 **Versión 3**: en esta versión, encontraremos el código adicional para poder descargar los fondos que deseemos, una vez seleccionado el fondo que se encuentra en una categoría concreta.
 
