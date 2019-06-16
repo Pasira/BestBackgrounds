@@ -23,6 +23,8 @@ Los usuarios tendrán la posibilidad de poder _Descargar_ y _Establecer como fon
 
 Explición sobre el funcionamiento de la aplicación, con sus imágenes correspondientes.
 
+También podrá ver un tutorial, en el que explico el funcionamiento de la aplicación mediante un vídeo, para que sea más ameno, tan solo tendrás que pinchar [AQUÍ](https://youtu.be/yKHbUdxIAXY), espero que sea de su agrado!
+
 BEST | BACKGROUNDS 
 :------------: | :-------------: 
 **IMG 1** <br> <img src="/Capturas%20de%20Pantalla%20App/img1.png" width="450"> | Mostrará un SplashScreen mientras se carga la aplicación	
