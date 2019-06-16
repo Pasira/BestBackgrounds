@@ -10,8 +10,6 @@ Proyecto de fin de grado (APP) para I.E.S Campanillas - Grado Superior DAM
 
 [Versiones de las que consta el proyecto](/Versiones)
 
-[ ] Documentación Adicional
-
 
 ## Descripción
 
