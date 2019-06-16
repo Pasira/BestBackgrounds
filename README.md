@@ -23,7 +23,7 @@ Los usuarios tendrán la posibilidad de poder _Descargar_ y _Establecer como fon
 
 Explicación sobre el funcionamiento de la aplicación, con las imágenes gráficas correspondientes.
 
-También podrá ver un tutorial, en el que se explica el funcionamiento de la aplicación mediante un vídeo, para que sea más ameno. Para ello solo tendrá que pinchar [AQUÍ](https://youtu.be/yKHbUdxIAXY)
+También podrá ver un tutorial, en el que se explica el funcionamiento de la aplicación mediante un vídeo, para que sea más ameno. Para ello solo tendrá que pinchar [AQUÍ](https://youtu.be/yKHbUdxIAXY).
 
 BEST | BACKGROUNDS 
 :------------: | :-------------: 
