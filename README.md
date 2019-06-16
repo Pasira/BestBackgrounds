@@ -4,7 +4,7 @@ Proyecto de fin de grado (APP) para I.E.S Campanillas - Grado Superior DAM
 
 ## Enlaces
 
-[ ] App
+[Apk BestBackgrounds ](/APK/BestBackgrounds.apk)
 
 [Presentación del proyecto](https://prezi.com/view/97ZvdPt4KYIhroeaSw6w)
 
@@ -45,5 +45,3 @@ Si deslizamos a la izquierda en el borde de nuestro dispositivo móvil o selecci
 |   Firebase   |   Picasso   |   Retrofit   |   RoomDatabase   |   RxJava   |   Computer Vision
 |:------------:|:------------:|:------------:|:------------:|:------------: |:------------:
 <img src="/Capturas%20de%20Pantalla%20App/Herramientas/firebase.png" width="150px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/Picasso.png" width="150px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/Retrofit.png" width="150px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/RoomDatabase.png" width="150px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/RxJava.png" width="150px"> | <img src="/Capturas%20de%20Pantalla%20App/Herramientas/Computer Vision API.png" width="150px">
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
