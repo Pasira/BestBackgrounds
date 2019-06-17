@@ -49,7 +49,13 @@ Se hará una breve explicación de los componentes informativos más importantes
 
 Firebase | Analytics 
 :------------: | :-------------: 
-
+<img src="/Capturas%20de%20Pantalla%20App/Parte%20Administrativa/Captura0.JPG" width="150px"> | Aquí podemos ver el panel general, en el que encontraremos los parámetros que nos proporcionan información acerca de nuestra aplicación como por ejemplo: <br>- Los eventos que seleccionan los usuarios. <br>- La audiencia que posee, con la que nos permite saber la fecha de creación de los usuarios. <br>- Podemos ver la media, del tiempo que pasan los usuarios utilizando la aplicación. <br>- Además podemos ver los usarios en tiempo real que utilizan nuestra app.
+Podemos ver los usuarios activos durante períodos de un día, siete días y treinta días, trazados en el tiempo. Los valores resumidos a la derecha muestran la cantidad de usuarios activos en el último día del período especificado. | <img src="/Capturas%20de%20Pantalla%20App/Parte%20Administrativa/Captura0.JPG" width="150px">
+<img src="/Capturas%20de%20Pantalla%20App/Parte%20Administrativa/Captura0.JPG" width="150px"> | Muestra la interacción diaria que tienen los usuarios, además de las pantallas en las que los usuarios permanecen más tiempo.
+Nos muestra un valor combinado para todas las fuentes de ingresos. Incluye los ingresos estimados de AdMob. <br>Esto viene muy bien, para saber los ingresos que tenemos mediante nuestra aplicación. | <img src="/Capturas%20de%20Pantalla%20App/Parte%20Administrativa/Captura0.JPG" width="150px">
+<img src="/Capturas%20de%20Pantalla%20App/Parte%20Administrativa/Captura0.JPG" width="150px"> | Podemos ver el porcentaje de usuarios que no han experimentado bloqueos en la aplicación. 
+Algo interesante, es poder comprobar la ubicación en la que se encuentra nuestra principal audiencia. | <img src="/Capturas%20de%20Pantalla%20App/Parte%20Administrativa/Captura0.JPG" width="150px">
+<img src="/Capturas%20de%20Pantalla%20App/Parte%20Administrativa/Captura0.JPG" width="150px"> | En esta última, podemos comprobar las plataformas en la que se instalan la aplicación, siendo en este caso el 100% Android, ya que está desarrollada exclusivamente para dicha plataforma.
 
 ## Herramientas utilizadas
 
